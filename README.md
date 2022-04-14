@@ -19,6 +19,7 @@ Application to be installed
 - AUR helper
 - Window Manager (Sway, Awesome, i3)
 - Bluetooth Application (Bluemon, ...)
+- Pulse audio, pipewire
 - Taskbar(?) (Waybar, ...)
 - Spotify with Spicetify
 - Snap
@@ -26,3 +27,5 @@ Application to be installed
 - Microsoft Teams, Zoom
 - Discord
 - Telegram (optional)
+- OBS
+- Web Browser
